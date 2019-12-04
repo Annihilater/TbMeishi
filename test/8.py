@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date  : 2019-09-09 09:22
-# @Author: PythonVampire
-# @email : vampire@ivamp.cn
+# @Author: yanmiexingkong
+# @email : yanmiexingkong@gmail.com
 # @File  : 8.py
 
 

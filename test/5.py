@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date  : 2019-09-08 15:41
-# @Author: PythonVampire
-# @email : vampire@ivamp.cn
+# @Author: yanmiexingkong
+# @email : yanmiexingkong@gmail.com
 # @File  : 5.py
 import functools
 import time

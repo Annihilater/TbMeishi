@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date  : 2019-09-08 15:36
-# @Author: PythonVampire
-# @email : vampire@ivamp.cn
+# @Author: yanmiexingkong
+# @email : yanmiexingkong@gmail.com
 # @File  : 3.py
 import asyncio
 import time
